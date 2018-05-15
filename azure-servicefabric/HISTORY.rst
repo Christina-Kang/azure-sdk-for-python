@@ -3,6 +3,19 @@
 Release History
 ===============
 
+6.2.0.0 (2018-05-10)
+++++++++++++++++++++
+ 
+**Bugfixes**
+ 
+- Numerous fixes to descriptions and help text of entities
+ 
+**Features**
+ 
+- Add support for invoking container APIs
+- Add option to fetch container logs from exited containers
+- Query to get chaos events now supports specification to limit number of returned items
+
 6.1.2.9 (2018-02-05)
 ++++++++++++++++++++
 
